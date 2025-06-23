@@ -1,5 +1,9 @@
 # 🌀 Scramble — Animated text component for Svelte
 
+![npm](https://img.shields.io/npm/v/svelte-text-scramble)
+![license](https://img.shields.io/npm/l/svelte-text-scramble)
+[![GitHub](https://img.shields.io/badge/github-Babic4%2Fsvelte--text--scramble-181717?logo=github)](https://github.com/Babic4/svelte-text-scramble)
+
 The `Scramble` component displays text with the effect of “scattered” letters (hacker-text style). Suitable for dynamic headlines, downloads or accents.
 
 ## 🚀 Installation

@@ -26,6 +26,14 @@
 	],
 	"author": "babxxh-dima",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Babic4/svelte-text-scramble"
+	},
+	"homepage": "https://github.com/Babic4/svelte-text-scramble#readme",
+	"bugs": {
+		"url": "https://github.com/Babic4/svelte-text-scramble/issues"
+	},
 	"devDependencies": {
 		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"@tsconfig/svelte": "^5.0.4",

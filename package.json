@@ -1,0 +1,40 @@
+{
+	"name": "svelte-text-scramble",
+	"version": "1.0.3",
+	"description": "Svelte component with scramble effect.",
+	"type": "module",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		".": {
+			"svelte": "./dist/index.js"
+		}
+	},
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "vite build"
+	},
+	"keywords": [
+		"svelte",
+		"scramble",
+		"text",
+		"animation",
+		"component"
+	],
+	"author": "babxxh-dima",
+	"license": "MIT",
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^5.0.3",
+		"@tsconfig/svelte": "^5.0.4",
+		"svelte": "^5.28.1",
+		"svelte-check": "^4.1.6",
+		"typescript": "~5.8.3",
+		"vite": "^6.3.5"
+	},
+	"dependencies": {
+		"motion": "^12.18.1"
+	}
+}
